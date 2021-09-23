@@ -1,0 +1,32 @@
+header {
+    background-color: rgba(149, 149, 248, 0);
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(102, 122, 122, 0.685);
+}
+
+nav a {
+    margin: 15px;
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(250, 245, 245);
+}
+
+section {
+    background-color: rgba(90, 90, 247, 0);
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+footer {
+    background-color: rgba(44, 44, 252, 0);
+    /* color: cornsilk; */
+    padding: 10px;
+    text-align: center;
+}
